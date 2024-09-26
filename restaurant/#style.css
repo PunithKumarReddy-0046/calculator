@@ -1,0 +1,12 @@
+h1{
+    color:white;
+    background-color: black;
+}
+
+img{download:.jpeg;
+    padding:100px;
+    border-width: 3px;
+    border-style: solid;
+    width:3em;
+    height:3em;
+};
